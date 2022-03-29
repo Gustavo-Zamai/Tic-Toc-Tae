@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: coral;
+}
+
+.square {
+    text-align: center;
+    width: 50px;
+    background: antiquewhite;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.player, .winner{
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+
+button{
+    margin-top: 10px;
+    width: 100px;
+    height: 25px;
+    background-color: #eee;
+    cursor: pointer;
+
+}
